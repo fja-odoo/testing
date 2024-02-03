@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <record id="threedom_test_record" model="threedom.test">
+            <field name="content"><![CDATA[
+                <p>This & is & a & test</p>
+            ]]></field>
+        </record>
+    </data>
+</odoo>

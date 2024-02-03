@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <template id="testing">
+        <t t-call="website.layout">
+            <div class="container">
+                <h1>Testing</h1>
+            </div>
+            <meta property='og:description' t-att-content="content" />
+        </t>
+    </template>
+</odoo>
